@@ -1,6 +1,7 @@
 # Renegade Builds
-Every publicly released build of Renegade can be found here! We haven't released a build yet so the current link is a placeholder.
 This repositiory exists so we can host builds for our upcoming launcher.
+
+Every publicly released build of Renegade can be found here! We haven't released a build yet so the current link is a placeholder.
 
 ## Public Releases
 | Build | Download |
