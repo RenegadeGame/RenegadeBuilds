@@ -1,0 +1,26 @@
+{
+  "app": {
+    "name": "Renegade",
+    "id": "renegade"
+  },
+  "latest": {
+    "version": "0.0.0",
+    "releaseNotes": "testing the launchers download and launch, this is not a build of Renegade!",
+    "publishedAt": "2025-12-13T00:00:00Z"
+  },
+  "launch": {
+    "exeRelativePath": "FortnitePS1Edition/Fortnite PS1 Edition.exe",
+    "cwdRelative": "FortnitePS1Edition/",
+    "args": []
+  },
+  "builds": [
+    {
+      "platform": "win32",
+      "arch": "x64",
+      "type": "zip",
+      "url": "https://github.com/RenegadeGame/RenegadeBuilds/releases/download/test/FortnitePS1Edition.zip",
+      "size": 0,
+      "sha256": ""
+    }
+  ]
+}
