@@ -5,7 +5,7 @@
   },
   "latest": {
     "version": "0.0.0",
-    "releaseNotes": "testing the launchers download and launch, this is not a build of Renegade!",
+    "releaseNotes": "THIS IS A TEST MANIFEST! Will be replaced when Renegade releases. :)",
     "publishedAt": "2025-12-13T00:00:00Z"
   },
   "launch": {
@@ -25,3 +25,4 @@
   ]
 
 }
+
