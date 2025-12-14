@@ -6,4 +6,4 @@ Every publicly released build of Renegade can be found here! We haven't released
 ## Public Releases
 | Build | Download |
 |--------------|---------------|
-| 1.0.0 | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view |
+| 1.0.0 | https://renegade.og/this-is-a-placeholder |
