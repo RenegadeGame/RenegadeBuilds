@@ -4,12 +4,12 @@
     "id": "renegade"
   },
   "latest": {
-    "version": "0.0.0",
-    "releaseNotes": "THIS IS A TEST MANIFEST! Will be replaced when Renegade releases. :)",
+    "version": "0.0.1",
+    "releaseNotes": "This manifest is used for testing perposes, the URL doesn't exist yet because we have not released a build! When a build is released this manifest will be updated and the previous one will be archived here incase for any reason you'd like to roll back to a previous update.)",
     "publishedAt": "2025-12-13T00:00:00Z"
   },
   "launch": {
-    "exeRelativePath": "FortniteGame/FortniteGame/Binaries/Win64/FortniteGame-Win64-Shipping",
+    "exeRelativePath": "FortniteGame/FortniteGame/Binaries/Win64/FortniteGame-Win64-Shipping.exe",
     "cwdRelative": "FortniteGame/",
     "args": []
   },
@@ -25,4 +25,5 @@
   ]
 
 }
+
 
