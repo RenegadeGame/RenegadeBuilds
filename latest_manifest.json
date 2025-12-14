@@ -9,8 +9,8 @@
     "publishedAt": "2025-12-13T00:00:00Z"
   },
   "launch": {
-    "exeRelativePath": "FortnitePS1Edition/Fortnite PS1 Edition.exe",
-    "cwdRelative": "FortnitePS1Edition/",
+    "exeRelativePath": "FortniteGame/FortniteGame/Binaries/Win64/FortniteGame-Win64-Shipping",
+    "cwdRelative": "FortniteGame/",
     "args": []
   },
   "builds": [
@@ -18,9 +18,10 @@
       "platform": "win32",
       "arch": "x64",
       "type": "zip",
-      "url": "https://github.com/RenegadeGame/RenegadeBuilds/releases/download/test/FortnitePS1Edition.zip",
+      "url": "https://github.com/RenegadeGame/RenegadeBuilds/releases/download/0.0.1/FortniteGame.zip",
       "size": 0,
       "sha256": ""
     }
   ]
+
 }
