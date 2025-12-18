@@ -4,12 +4,12 @@
     "id": "renegade"
   },
   "latest": {
-    "version": "0.0.1",
-    "releaseNotes": "This manifest is used for testing perposes, the URL doesn't exist yet because we have not released a build! When a build is released this manifest will be updated and the previous one will be archived here incase for any reason you'd like to roll back to a previous update.)",
-    "publishedAt": "2025-12-13T00:00:00Z"
+    "version": "0.0.0",
+    "publishedAt": "2025-12-13T00:00:00Z",
+    "releaseNotesUrl": "https://raw.githubusercontent.com/RenegadeGame/RenegadeBuilds/main/latest_patch_notes.md"
   },
   "launch": {
-    "exeRelativePath": "FortniteGame/FortniteGame/Binaries/Win64/FortniteGame-Win64-Shipping.exe",
+    "exeRelativePath": "FortniteGame/FortniteGame/Binaries/Win64/FortniteGame-Win64-Shipping",
     "cwdRelative": "FortniteGame/",
     "args": []
   },
@@ -23,7 +23,4 @@
       "sha256": ""
     }
   ]
-
 }
-
-
